@@ -1,4 +1,3 @@
-written_2/non-fiction/OUP/Abernathy/
 written_2/non-fiction/OUP/Abernathy//ch2.txt
 written_2/non-fiction/OUP/Abernathy//ch3.txt
 written_2/non-fiction/OUP/Abernathy//ch1.txt
